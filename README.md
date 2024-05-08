@@ -28,29 +28,29 @@ bruteforce any language write psuedo code
 
 ```
 ```
-import SYS from: source/route/path: $File
-use utf8;
-use warnings;
-use strict;
+// import SYS from: source/route/path: $File
+// use utf8;
+// use warnings;
+// use strict;
 
-my $File = /runtime/file.ext
-a( parameter ) -> select index > connect|map
+// my $File = /runtime/file.ext
+// a( parameter ) -> select index > connect|map
 
-BEGIN:
-    For Example:
+// BEGIN:
+//     For Example:
 
-_Title_ == _Main_
+// _Title_ == _Main_
 
-for while-do command $$command
-verify( login|password > auth() )
+// for while-do command $$command
+// verify( login|password > auth() )
 
-My Sample: _complexity_ vs _simpicity_
-my _simpicity_ public void[$1 >goto: $2]
-our _simpicity_ private class[ opt src code]
-bless _simpicity_ restricted dir[runtime/file.ext*]
+// My Sample: _complexity_ vs _simpicity_
+// my _simpicity_ public void[$1 >goto: $2]
+// our _simpicity_ private class[ opt src code]
+// bless _simpicity_ restricted dir[runtime/file.ext*]
 
-return 0;
-return 1;
+// return 0;
+// return 1;
 
-END;
+// END;
 ```
